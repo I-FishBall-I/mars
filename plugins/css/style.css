@@ -32,7 +32,7 @@ body > nav {
   margin-top: 100px;
   width: 100%;
   height: 700px;
-  background: url(/image/Frame.png) center center/cover no-repeat;
+  background: url(/mars/image/Frame.png) center center/cover no-repeat;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -322,7 +322,7 @@ body > nav {
 .life {
   width: 100%;
   height: 100vh;
-  background: url(/image/gamebg.png) center center/cover no-repeat;
+  background: url(/mars/image/gamebg.png) center center/cover no-repeat;
   display: flex;
   justify-content: center;
 }
