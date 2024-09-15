@@ -82,19 +82,13 @@ body > nav {
   margin-top: 50px;
   font-size: 3rem;
 }
-.aboutMe .container img {
-  width: 100%;
-}
+
 .aboutMe .container .item {
   display: flex;
   position: absolute;
 }
 .aboutMe .container .item .pic {
   width: 20%;
-}
-.aboutMe .container .item img {
-  width: 100%;
-  vertical-align: middle;
 }
 .aboutMe .container .item .txt {
   width: 30%;
@@ -173,10 +167,6 @@ body > nav {
 .skill .slider .item .pic {
   width: 30%;
   margin: auto;
-}
-.skill .slider .item .pic img {
-  width: 100%;
-  vertical-align: middle;
 }
 .skill .slider .item .txt {
   display: flex;
